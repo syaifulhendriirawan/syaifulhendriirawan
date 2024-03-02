@@ -16,8 +16,6 @@
 
 💬 Ask me about **Machine Learning, Deep Learning, Data Science... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
