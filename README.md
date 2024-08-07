@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Tensorflow, SQL**
 
-💬 Ask me about **Machine Learning, Deep Learning, Data Science... or anything**
+💬 Ask me about **Data Science, Machine Learning, Deep Learning**
 
  </div>
  
