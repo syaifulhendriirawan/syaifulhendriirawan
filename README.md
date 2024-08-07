@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syaiful+Hendri+Irawan!;" />
 </h1>
 
-<h3 align="center">A passionate machine learning engineer from Indonesia 🇨🇦</h3>
+<h3 align="center">A passionate machine learning engineer from Indonesia 🇮🇩</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m very interested in **Artificial Intelligence**
  
- 🌱 I’m currently learning **Docker, Tensorflow, SQL**
+ 🌱 I’m currently learning **Python, Tensorflow, Javascript, SQL**
 
 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,sql" />
     <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,github,docker,mysql,flask,vscode" /><br>
 </div>
 
